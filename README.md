@@ -1,5 +1,7 @@
 # solved-coding-questions
 solving top 100 codes in 100 days 
+
+Write a Java program to find the second largest and second smallest elements in an array without sorting.
 import java.util.Scanner;
 
 class Main {
@@ -22,3 +24,11 @@ class Main {
         System.out.println("Min: " + min);
     }
 }
+
+
+output :
+
+Max: 34  
+Second Max: 7  
+Min: 1  
+Second Min: 2  
